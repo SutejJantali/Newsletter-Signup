@@ -33,7 +33,7 @@ app.post("/", function(req, res){
 
     const options = {
         method: "POST",
-        auth: "sutej1:7baa25c10ace634b69e70555b5ef943a-us21"
+        auth: "sutej1:d3061128d5175d10f5407f14fe80c0f9-us21"
     };
 
 
@@ -61,7 +61,6 @@ app.listen(process.env.PORT || 3000, function(){
     console.log("port 3000 running successfully!");
 });
 
-//api key
-//7baa25c10ace634b69e70555b5ef943a-us21 
+
 //list id
 //85111eb0c7
